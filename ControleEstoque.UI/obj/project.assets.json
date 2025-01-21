@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "ControleEstoque.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ControleEstoque.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ControleEstoque.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ControleEstoque.Business.dll": {}
+        }
+      },
+      "ControleEstoque.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ControleEstoque.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ControleEstoque.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleEstoque.Business/1.0.0": {
+      "type": "project",
+      "path": "../ControleEstoque.Business/ControleEstoque.Business.csproj",
+      "msbuildProject": "../ControleEstoque.Business/ControleEstoque.Business.csproj"
+    },
+    "ControleEstoque.Data/1.0.0": {
+      "type": "project",
+      "path": "../ControleEstoque.Data/ControleEstoque.Data.csproj",
+      "msbuildProject": "../ControleEstoque.Data/ControleEstoque.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "ControleEstoque.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gabriel.COCSTA3\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque.UI\\ControleEstoque.UI.csproj",
+      "projectName": "ControleEstoque.UI",
+      "projectPath": "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque.UI\\ControleEstoque.UI.csproj",
+      "packagesPath": "C:\\Users\\gabriel.COCSTA3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\gabriel.COCSTA3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque.Business\\ControleEstoque.Business.csproj": {
+              "projectPath": "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque.Business\\ControleEstoque.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

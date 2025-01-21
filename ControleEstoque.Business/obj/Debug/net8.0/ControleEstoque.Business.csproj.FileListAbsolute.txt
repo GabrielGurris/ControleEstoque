@@ -1,0 +1,15 @@
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\bin\Debug\net8.0\ControleEstoque.Business.deps.json
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\bin\Debug\net8.0\ControleEstoque.Business.dll
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\bin\Debug\net8.0\ControleEstoque.Business.pdb
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\bin\Debug\net8.0\ControleEstoque.Data.dll
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\bin\Debug\net8.0\ControleEstoque.Data.pdb
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ControleEstoque.Business.csproj.AssemblyReference.cache
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ControleEstoque.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ControleEstoque.Business.AssemblyInfoInputs.cache
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ControleEstoque.Business.AssemblyInfo.cs
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ControleEstoque.Business.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\Controle.01302616.Up2Date
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ControleEstoque.Business.dll
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\refint\ControleEstoque.Business.dll
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ControleEstoque.Business.pdb
+C:\Users\gabriel.COCSTA3\Documents\ControleEstoque.Business\obj\Debug\net8.0\ref\ControleEstoque.Business.dll

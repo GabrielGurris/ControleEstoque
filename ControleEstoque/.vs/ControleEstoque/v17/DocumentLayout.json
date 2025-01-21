@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F3F06-36AB-49DC-B91B-EB3ACFDA15EE}|..\\ControleEstoque.UI\\ControleEstoque.UI.csproj|c:\\users\\gabriel.cocsta3\\documents\\controle_estoque\\controleestoque.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Business\\Services\\EstoqueService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Data\\Repositories\\ProdutoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Data\\Models\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\ControleEstoque.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\Controle_Estoque\\ControleEstoque.UI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\ControleEstoque.UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:54:09.013Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\ControleEstoque.UI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\ControleEstoque.UI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:25:17.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\ControleEstoque.UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Form1.cs",
+              "RelativeToolTip": "..\\..\\ControleEstoque.UI\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:03:04.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstoqueService.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Business\\Services\\EstoqueService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ControleEstoque.Business\\Services\\EstoqueService.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Business\\Services\\EstoqueService.cs",
+              "RelativeToolTip": "..\\..\\ControleEstoque.Business\\Services\\EstoqueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:33:49.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Data\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ControleEstoque.Data\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Data\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "..\\..\\ControleEstoque.Data\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:33:33.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\ControleEstoque.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.UI\\Program.cs",
+              "RelativeToolTip": "..\\..\\ControleEstoque.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:32:10.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Data\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "..\\..\\ControleEstoque.Data\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Data\\Models\\Produto.cs",
+              "RelativeToolTip": "..\\..\\ControleEstoque.Data\\Models\\Produto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:33:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\ControleEstoque.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\gabriel.COCSTA3\\Documents\\ControleEstoque.Business\\Class1.cs",
+              "RelativeToolTip": "..\\..\\ControleEstoque.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:28:55.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

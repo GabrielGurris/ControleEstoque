@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControleEstoque.Business/1.0.0": {
+        "dependencies": {
+          "ControleEstoque.Data": "1.0.0"
+        },
+        "runtime": {
+          "ControleEstoque.Business.dll": {}
+        }
+      },
+      "ControleEstoque.Data/1.0.0": {
+        "runtime": {
+          "ControleEstoque.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleEstoque.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControleEstoque.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
