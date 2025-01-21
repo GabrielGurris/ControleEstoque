@@ -71,6 +71,8 @@ O **Controle de Estoque** é uma aplicação desktop desenvolvida em C#, destina
 ### Listar Produtos
 - Clique no botão **Listar** para visualizar todos os produtos cadastrados.
 
+![image](https://github.com/user-attachments/assets/c4d6af8f-de39-4d39-8592-29a61189db63)
+
 ---
 
 ## Melhorias Futuras
